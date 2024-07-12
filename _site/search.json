@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "mycontent.html",
+    "href": "mycontent.html",
+    "title": "My list",
+    "section": "",
+    "text": "a\n\n\n\n\n\n\n\n\n\n\n\nJul 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\ne\n\n\n\n\n\n\n\n\n\n\n\nJul 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nb\n\n\n\n\n\n\n\n\n\n\n\nJul 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nd\n\n\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "mycontent/2024-07-11-b.html#quarto",
+    "href": "mycontent/2024-07-11-b.html#quarto",
+    "title": "b",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "mycontent/2024-07-11-b.html#bullets",
+    "href": "mycontent/2024-07-11-b.html#bullets",
+    "title": "b",
+    "section": "Bullets",
+    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
+  },
+  {
+    "objectID": "mycontent/2024-07-11-b.html#code",
+    "href": "mycontent/2024-07-11-b.html#code",
+    "title": "b",
+    "section": "Code",
+    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
+  },
+  {
+    "objectID": "mycontent/2024-07-01-a.html#quarto",
+    "href": "mycontent/2024-07-01-a.html#quarto",
+    "title": "a",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "mycontent/2024-07-01-a.html#bullets",
+    "href": "mycontent/2024-07-01-a.html#bullets",
+    "title": "a",
+    "section": "Bullets",
+    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
+  },
+  {
+    "objectID": "mycontent/2024-07-01-a.html#code",
+    "href": "mycontent/2024-07-01-a.html#code",
+    "title": "a",
+    "section": "Code",
+    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "website_theme_reprex",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "mycontent/2024-07-01-d.html#quarto",
+    "href": "mycontent/2024-07-01-d.html#quarto",
+    "title": "d",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "mycontent/2024-07-01-d.html#bullets",
+    "href": "mycontent/2024-07-01-d.html#bullets",
+    "title": "d",
+    "section": "Bullets",
+    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
+  },
+  {
+    "objectID": "mycontent/2024-07-01-d.html#code",
+    "href": "mycontent/2024-07-01-d.html#code",
+    "title": "d",
+    "section": "Code",
+    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
+  },
+  {
+    "objectID": "mycontent/2024-07-12-e.html#quarto",
+    "href": "mycontent/2024-07-12-e.html#quarto",
+    "title": "e",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "mycontent/2024-07-12-e.html#bullets",
+    "href": "mycontent/2024-07-12-e.html#bullets",
+    "title": "e",
+    "section": "Bullets",
+    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
+  },
+  {
+    "objectID": "mycontent/2024-07-12-e.html#code",
+    "href": "mycontent/2024-07-12-e.html#code",
+    "title": "e",
+    "section": "Code",
+    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
+  }
+]
